@@ -36,6 +36,8 @@ jupyter notebook main.ipynb
 
 Run all cells sequentially to preprocess data, train models, and view results.
 
+### Streamlit + ngrok Demo
+
 The notebook includes a **Streamlit + ngrok cell** for each task for interactive demos (replace `abc` with your actual ngrok auth token):
 ```bash
 !ngrok authtoken <your_auth_token>
